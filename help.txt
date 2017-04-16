@@ -1,0 +1,13 @@
+1.) What is uploading?
+
+Whenever you enter a function to the application,
+it first calculates y from given x and stores those 
+pairs in a file. So, uploading just rewrites this
+file with new data.
+
+2.) Should I take care of domain?
+
+Yes, because the graph will not be created if you
+included a point which is not in the domain of function
+you entered. For eg: f(x) = (x-5)/(7-x), must not include x = 7.
+If included f(x) ---> infinity which cannot be plotted.
